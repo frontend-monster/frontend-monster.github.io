@@ -29,7 +29,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col gap-20 items-center py-12 px-5 sm:p-24 relative bg-gradient-to-tl from-zinc-900 via-zinc-400/10 to-zinc-900">
       <h1 className="text-7xl md:text-8xl font-bold bg-gradient-to-r from-indigo-400 via-violet-600 to-fuchsia-400 bg-clip-text text-transparent flex flex-col gap-3">
-        <Link href={'/'}>Arda</Link>
+        <Link href={'/'}>Lan</Link>
         <div className="flex gap-4 items-center justify-center">
           <Link className="border border-white p-2 grid place-items-center rounded-full text-white transition-all duration-200 hover:bg-slate-300 hover:text-slate-900"
             href={'https://github.com/frontend-monster'}
