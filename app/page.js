@@ -10,6 +10,7 @@ import {
   spaceWebsite,
   tipCalculator,
   workit,
+  password
 } from "@/assets";
 import { Github } from "lucide-react";
 
@@ -22,6 +23,7 @@ const works = [
   {name: "Dictionary API", image: dictionaryApi, link: "https://frontend-monster.github.io/dictionary-api", bages: ["Vite", "React.js","Animation"]},
   {name: "Age Calculator", image: ageCalculator, link: "https://frontend-monster.github.io/ageCalculator", bages: ["Vanilla JS", "Taiwind CSS"]},
   {name: "Tip Calculator", image: tipCalculator, link: "https://frontend-monster.github.io/tipCalculator", bages: ["Next.js", "Taiwind CSS"]},
+  {name: "Password Gen", image: password, link: "https://password-lovat.vercel.app/", bages: ["Next.js", "Tailwind CSS"]},
 
 ]
 

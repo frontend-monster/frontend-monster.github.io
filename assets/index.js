@@ -6,6 +6,7 @@ import newsletter from './newsletter.jpeg'
 import spaceWebsite from './space-website.jpeg'
 import tipCalculator from './tipCalculator.jpeg'
 import workit from './workit.jpeg'
+import password from './password.png'
 
 export {
     ageCalculator,
@@ -15,5 +16,6 @@ export {
     newsletter,
     spaceWebsite,
     tipCalculator,
-    workit
+    workit,
+    password
 }
